@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Methods3\Methods3\bin\Debug\Methods3.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Methods3\Methods3\obj\Debug\Methods3.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Methods3\Methods3\bin\Debug\Methods3.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Methods3\Methods3\bin\Debug\Methods3.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Methods3\Methods3\obj\Debug\Methods3.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Methods3\Methods3\obj\Debug\Methods3.pdb
